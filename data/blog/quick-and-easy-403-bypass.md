@@ -3,7 +3,7 @@ title: Quick and easy 403 bypass
 date: '2021-11-04'
 tags: ['403 bypass', 'bug bounty']
 draft: false
-images: ['static/images/403-bypass/forbidden.png', 'static/images/403-bypass/intercept-1.png','static/images/403-bypass/intercept-2.png', 'static/images/403-bypass/login.png', 'static/images/403-bypass/access-denied.png']
+images: ['static/images/403-bypass/access-denied.png', 'static/images/403-bypass/forbidden.png', 'static/images/403-bypass/intercept-1.png','static/images/403-bypass/intercept-2.png', 'static/images/403-bypass/login.png']
 summary: An interesting bypass by taking advantage of the Host header
 ---
 
