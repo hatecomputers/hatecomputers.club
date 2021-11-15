@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Crafted out of misery',
+  title: 'Hack the planet!',
   author: 'hatecomputers',
   headerTitle: 'hatecomputers',
   description: 'AppSec | Bug Bounty | Cyber Security',

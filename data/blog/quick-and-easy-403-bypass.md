@@ -3,9 +3,11 @@ title: Quick and easy 403 bypass
 date: '2021-11-04'
 tags: ['403 bypass', 'bug bounty']
 draft: false
-images: ['static/images/403-bypass/forbidden.png', 'static/images/403-bypass/intercept-1.png','static/images/403-bypass/intercept-2.png', 'static/images/403-bypass/login.png']
+images: ['static/images/403-bypass/forbidden.png', 'static/images/403-bypass/intercept-1.png','static/images/403-bypass/intercept-2.png', 'static/images/403-bypass/login.png', 'static/images/403-bypass/access-denied.png']
 summary: An interesting bypass by taking advantage of the Host header
 ---
+
+![access-denied.png](/static/images/403-bypass/access-denied.png)
 
 Blogging has never been a habit I was able to maintain for long but every once in a while I have the urge to write something. Also, as I still benefit so much from other's peoples writeups, it almost feels like an obligation to give it back somehow. Anyways, this is me once again, attempting to stick with a habit.
 
@@ -94,5 +96,5 @@ That's it, hope you've learnt something out of this.
 
 * Oct 12, 2021 11:44am — Reported
 * Oct 12, 2021 03:10pm — Triage
-* Oct 13, 2021 01:10pm — Accepted
+* Oct 13, 2021 01:21pm — Accepted
 * Oct 26, 2021 08:20am — Rewarded
