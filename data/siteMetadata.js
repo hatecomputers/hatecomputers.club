@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'hatecomputers',
   description: 'AppSec | Bug Bounty | Cyber Security',
   language: 'en-us',
-  siteUrl: 'https://hatecomputers.club',
+  siteUrl: 'https://hatecomputers.club/',
   siteRepo: 'https://github.com/hatecomputers/hatecomputers.club',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/me.png',
