@@ -59,7 +59,8 @@
     "pnpapi": "0.0.0",
     "prettier": "2.2.1",
     "socket.io": "^4.1.3",
-    "socket.io-client": "^4.1.3"
+    "socket.io-client": "^4.1.3",
+    "webpack": "^5.64.0"
   },
   "lint-staged": {
     "*.+(js|jsx|ts|tsx)": [

@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/about</loc>
+    <loc>https://hatecomputers.club/about</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog</loc>
+    <loc>https://hatecomputers.club/blog</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app</loc>
+    <loc>https://hatecomputers.club</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/projects</loc>
+    <loc>https://hatecomputers.club/projects</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags</loc>
+    <loc>https://hatecomputers.club/tags</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/quick-and-easy-403-bypass</loc>
+    <loc>https://hatecomputers.club/blog/quick-and-easy-403-bypass</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/subdomain-takeover-by-wordpress</loc>
+    <loc>https://hatecomputers.club/blog/subdomain-takeover-by-wordpress</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/403-bypass</loc>
+    <loc>https://hatecomputers.club/tags/403-bypass</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/bug-bounty</loc>
+    <loc>https://hatecomputers.club/tags/bug-bounty</loc>
   </url>
 </urlset>
