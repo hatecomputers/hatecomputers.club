@@ -22,10 +22,10 @@ export default function Home({ posts, authorDetails }) {
   return (
     <>
       <div
-        className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0"
+        className="items-start space-y-2 xl:grid xl:gap-x-8 xl:space-y-0"
         style={{ textAlign: 'center' }}
       >
-        <div className="flex flex-col items-center pt-8 space-x-2">
+        <div className="flex flex-col items-center pt-8 space-x-2" style={{ textAlign: 'center' }}>
           <Image
             src={frontMatter.avatar}
             width="192px"
